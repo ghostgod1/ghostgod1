@@ -1,7 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 <h1 align="center">Hi 👋, I'm Ankit Pandey</h1>
-<h3 align="center">I'm a 3rd year AI undergraduate aspiring to be a Software Developer</h3>
+<h3 align="center">I am an aspiring Python developer with curiosity in Machine Learning and Development and curious to learn any new technologies.
+Want to work with an organization to develop my skills and further the organizational goals</h3>
 <img align="right" alt="Nueral Network" width="400" src="https://blog.paperspace.com/content/images/2020/01/Intro-HELLO-FUTURE-1920x1080_v2.gif">
 
 
